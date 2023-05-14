@@ -37,7 +37,7 @@
     content: '';
     height: 3px;
     width: 0;
-    background: #ffc107;
+    background: #c4a166;
     position: absolute;
     left: 0;
     bottom: -10px;
@@ -76,10 +76,10 @@ button{
     margin: 20px;
     font-size: 16px;
     letter-spacing: 1px;
-    border: 2px solid #ffc107;
+    border: 2px solid #c4a166;
     color: #fff;
     cursor: pointer;
-    background: linear-gradient(to right, transparent 50%, #ffc107 50%);
+    background: linear-gradient(to right, transparent 50%, #c4a166 50%);
     background-size: 200%;
     background-position: left;
     transition: background-position 0.5s;
@@ -90,7 +90,7 @@ button:hover{
 }
 
 .slider{
-    color: #926f34;
+    color: #c4a166;
     margin-left: 12px;
     box-sizing: border-box;
     animation: slider 6s linear infinite;
@@ -104,4 +104,5 @@ button:hover{
     70%{ margin-top: 200px; }
     100%{ margin-top: 200px; }
 }
+
 
