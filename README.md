@@ -40,13 +40,16 @@ yet impactful focus in a targeted area of the landing page.**
 **index.html 3 words for style.css div class "slider":** 
 \
 \
-![text html](https://github.com/JCPTrevillian/OSG-Landing-Page/assets/95890754/8a2ed186-5bd7-44a7-a992-f96e2f93510c)
+![text html](https://github.com/JCPTrevillian/OSG-Landing-Page/assets/95890754/a9cc20f1-a740-4649-a6f0-775ff55eb81d)
+
+\
 \
 **style.css slider animation, change every 6 seconds without stopping so anytime anyone lands on this website page the words 
 in the slider div features the primary services this practice wants to showcase will keep changing (sliding).**
 \
 \
-![text css](https://github.com/JCPTrevillian/OSG-Landing-Page/assets/95890754/787e15c5-d259-45f1-a493-ec6cd59924c9)
+![text css](https://github.com/JCPTrevillian/OSG-Landing-Page/assets/95890754/d0e06b0c-3d45-49eb-8eb1-cd63cce47d48)
+
 \
 \
 **Animated call to action button**
