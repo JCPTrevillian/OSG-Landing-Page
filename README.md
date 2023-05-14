@@ -38,4 +38,15 @@ in the slider div features the primary services this practice wants to showcase 
 \
 \
 ![text css](https://github.com/JCPTrevillian/OSG-Landing-Page/assets/95890754/787e15c5-d259-45f1-a493-ec6cd59924c9)
-
+\
+\
+**Animated call to action button**
+\
+\
+![OSG animated button](https://github.com/JCPTrevillian/OSG-Landing-Page/assets/95890754/8bc26584-d37b-434f-a547-655212731620)
+\
+\
+**Animated line under page menu options**
+\
+\
+![OSG animated menu](https://github.com/JCPTrevillian/OSG-Landing-Page/assets/95890754/310c8010-abb3-4f87-9920-51a38d4521f0)
