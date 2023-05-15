@@ -4,7 +4,7 @@
 \
 \
 **Color: This is a mock-up with a logo placeholder for the logo my client will furnish for the final. 
-I carefully consideredthe gold color as I was given the hex #926f54 for the actual logo color. 
+I carefully considered the gold color as I was given the hex #926f54 for the actual logo color. 
 When I used that hex for the website the color was too dark, so I tried 20% lighter version #79561b. 
 Unfortunately that was also dark. I found #c4a166 which was brilliant on the screen.** 
 \
@@ -34,7 +34,7 @@ Unfortunately that was also dark. I found #c4a166 which was brilliant on the scr
 \
 **Normally Javascript transitions static HTML/CSS wesbites into responsive ones. 
 This project illustrates how one can make a static website animated and more interesting with simple, 
-yet impactful focus in a targeted area of the landing page.** 
+yet impactful focus in targeted areas of the landing page.** 
 \
 \
 **index.html 3 words for style.css div class "slider":** 
