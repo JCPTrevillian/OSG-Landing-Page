@@ -3,12 +3,6 @@
 **HTML|CSS**
 \
 \
-**Color: This is a mock-up with a logo placeholder for the logo my client will furnish for the final. 
-I carefully considered the gold color as I was given the hex #926f54 for the actual logo color. 
-When I used that hex for the website the color was too dark, so I tried 20% lighter version #79561b. 
-Unfortunately that was also dark. I found #c4a166 which was brilliant on the screen.** 
-\
-\
 **The landing page focuses on 3 most popular services which are featured in the text slide:** 
 \
 \
