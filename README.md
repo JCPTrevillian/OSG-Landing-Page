@@ -26,8 +26,7 @@
 
 \
 \
-**Normally Javascript transitions static HTML/CSS wesbites into responsive ones. 
-This project illustrates how one can make a static website animated and more interesting with simple, 
+**This project illustrates how one can make a static website animated and more interesting with css through simple, 
 yet impactful focus in targeted areas of the landing page.** 
 \
 \
