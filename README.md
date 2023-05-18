@@ -9,21 +9,21 @@
 **Full Arch Dental Implants**
 \
 \
-![OSG1](https://github.com/JCPTrevillian/OSG-Landing-Page/assets/95890754/02f0c615-e43e-42cc-abe9-2b4ad2b650c8)
+![Full Arch Implants](https://github.com/JCPTrevillian/OSG-Landing-Page/assets/95890754/b27d3e77-78d5-44e7-b289-0ceb3f3503b5)
 
 \
 \
 **Dental Implants**
 \
 \
-![OSG2](https://github.com/JCPTrevillian/OSG-Landing-Page/assets/95890754/f9a4d4d2-b984-4305-ab08-6ea621227dac)
-
+![Dental Implants](https://github.com/JCPTrevillian/OSG-Landing-Page/assets/95890754/8f0af391-a46b-46f0-a801-3157c185ff89)
 \
 \
 **Dental Extractions**
 \
 \
-![OSG3](https://github.com/JCPTrevillian/OSG-Landing-Page/assets/95890754/a9f689c3-91e6-4932-a0d7-7cf249775e1d)
+![Dental Extractions](https://github.com/JCPTrevillian/OSG-Landing-Page/assets/95890754/6020d7db-b472-47ec-b738-e242302edff5)
+
 \
 \
 **Normally Javascript transitions static HTML/CSS wesbites into responsive ones. 
